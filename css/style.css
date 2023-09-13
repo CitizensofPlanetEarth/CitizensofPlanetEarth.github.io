@@ -446,9 +446,17 @@ a:focus {
   width: 100%;
 }
 
+.contact_section h1 {
+  font-size: 26px;
+  color: #6ebca8;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 35px;
+}
+
 .contact_section h2 {
   font-size: 26px;
-  color: #010103;
+  color: #6ebca8;
   font-weight: 600;
   font-family: 'Raleway', sans-serif;
   margin-bottom: 35px;
