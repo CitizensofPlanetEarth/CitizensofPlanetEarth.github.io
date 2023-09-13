@@ -231,9 +231,13 @@ a:focus {
   color: #648cb1;
 }
 
+.common_style h2 {
+  font-weight: 600;
+  color: #648cb1;
+}
 .common_style p {
   font-weight: 600;
-  color: #4e4f50;
+  color: #648cb1;
   margin: 30px 0 50px 0;
 }
 
