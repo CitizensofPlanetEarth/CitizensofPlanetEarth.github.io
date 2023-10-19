@@ -2,6 +2,11 @@ body {
   font-family: 'Raleway', sans-serif;
   background-color: #eeeda3;
 }
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 
 
 .layout_padding {
