@@ -229,7 +229,7 @@
    * Constants
    * ------------------------------------------------------------------------
    */
-
+ 
   var NAME = 'alert';
   var VERSION = '4.3.1';
   var DATA_KEY = 'bs.alert';
@@ -262,7 +262,6 @@
       function Alert(element) {
         this._element = element;
       } // Getters
-
 
       var _proto = Alert.prototype;
 
