@@ -8,6 +8,11 @@ body {
   padding: 10px;
 }
 
+gif.earth {
+  height: 50%;
+  width: 50%;
+}
+
 .layout_padding {
   padding: 75px 0;
 }
