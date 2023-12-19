@@ -92,7 +92,6 @@ nav.navbar.navbar-expand-lg {
   text-align: center;
 }
 
-
 a,
 a:hover,
 a:focus {
@@ -114,8 +113,6 @@ a:focus {
   position: relative;
 }
 
-
-
 .top_container::before {
   content: "";
   position: absolute;
@@ -134,9 +131,6 @@ a:focus {
   background-image: none;
 }
 
-
-
-
 .sub_page .top_container::after {
   display: none;
 }
@@ -146,7 +140,6 @@ a:focus {
   width: 25px;
   margin-right: 7px;
 }
-
 
 .custom_nav-container .nav_search-btn {
   background-image: url(../images/search-icon.png);
