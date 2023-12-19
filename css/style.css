@@ -354,7 +354,6 @@ a:focus {
   animation-delay: .1s;
 }
 
-
 @keyframes beforeanimate {
   0% {
     top: 43%;
@@ -424,8 +423,6 @@ a:focus {
   width: 90%;
   margin: 15px 0;
 }
-
-
 
 .contact_form-container button {
   border: none;
@@ -515,8 +512,6 @@ a:focus {
   font-size: 22px;
 }
 
-
-
 .info_section .form_container input {
   width: 225px;
   height: 40px;
@@ -578,8 +573,6 @@ a:focus {
 .footer_section a {
   color: #fdfdfe;
 }
-
-
 
 /* end footer section*/
 
