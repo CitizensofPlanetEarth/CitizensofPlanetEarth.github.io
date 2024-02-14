@@ -1,5 +1,4 @@
 @media (max-width: 1120px) {}
-
 @media (max-width: 992px) {
 
 
@@ -23,13 +22,9 @@
     .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
         color: #447BAD;
     }
-
 }
-
-
 @media (max-width: 768px) {
-
-
+    
     .hero_detail-box {
         text-align: center;
     }
@@ -55,14 +50,12 @@
         width: 100%;
         margin: 20px auto;
     }
-
 }
 
 @media (max-width: 576px) {
     .hero-container {
         padding-bottom: 100px;
     }
-
     .client_img-box::before,
     .client_img-box::after {
         content: "";
@@ -73,7 +66,6 @@
         background-color: #FFC000
 ;
     }
-
     .client_img-box::before {
         top: 0;
         transform: rotate(132deg);
@@ -89,8 +81,7 @@
         animation: afteranimate 1s;
         animation-delay: .1s;
     }
-
-
+    
     @keyframes beforeanimate {
         0% {
             top: 43%;
