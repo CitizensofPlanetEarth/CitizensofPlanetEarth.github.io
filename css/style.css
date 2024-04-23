@@ -255,6 +255,15 @@ a:focus {
   margin-bottom: 20px;
   margin-left: 20px;
 }
+.common_style h1 {
+  font-weight: 600;
+  color: #447BAD;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
 
 .common_style img {
   width: 100%;
