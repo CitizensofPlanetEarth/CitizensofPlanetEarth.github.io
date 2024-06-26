@@ -2,6 +2,11 @@ body {
   font-family: 'Raleway', sans-serif;
   background-color: #eeeda3;
 }
+h1{
+  font-size:50px;
+  font-weight: bold;
+
+}
 .center {
   display: block;
   margin-left: auto;
