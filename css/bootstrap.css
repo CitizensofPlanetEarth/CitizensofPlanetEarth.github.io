@@ -87,7 +87,9 @@ p {
   margin-bottom: 20px;
   margin-left: 20px;
 }
-
+form{
+  text-align: center;
+}
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
